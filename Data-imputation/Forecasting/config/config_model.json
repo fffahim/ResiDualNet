@@ -1,0 +1,28 @@
+{
+    "bilstm" : {
+        "input_size" : 8,
+        "hidden_size" : 8,
+        "lag_size" : 21,
+        "learning_rate" : 0.001,
+        "batch_size" : 256,
+        "future_step" : 6
+    },
+    "mogrifierlstm" : {
+        "input_size" : 8,
+        "hidden_size" : 12,
+        "lag_size" : 21,
+        "learning_rate" : 0.001,
+        "batch_size" : 256,
+        "future_step" : 6
+    },
+    "scinet" : {
+        "input_size" : 8,
+        "hidden_size" : 16,
+        "lag_size" : 168,
+        "learning_rate" : 0.001,
+        "batch_size" : 256,
+        "future_step" : 6,
+        "stacks" : 1,
+        "levels" : 2
+    }
+}
