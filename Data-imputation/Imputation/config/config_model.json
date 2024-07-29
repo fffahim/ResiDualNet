@@ -3,8 +3,8 @@
         "seq2seq" : {
             "input_size" : 8,
             "output_size" : 8,
-            "hidden_size" : 8,
-            "lag_size" : 4,
+            "hidden_size" : 6,
+            "lag_size" : 8,
             "batch_size" : 256,
             "learning_rate" : 0.001,
             "column" : 1
@@ -14,8 +14,8 @@
         "seq2seq" : {
             "input_size" : 8,
             "output_size" : 8,
-            "hidden_size" : 10,
-            "lag_size" : 4,
+            "hidden_size" : 7,
+            "lag_size" : 48,
             "batch_size" : 256,
             "learning_rate" : 0.001,
             "column" : 1
