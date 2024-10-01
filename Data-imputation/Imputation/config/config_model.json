@@ -1,10 +1,10 @@
 {
      "impute_40" : {
         "seq2seq" : {
-            "input_size" : 8,
-            "output_size" : 8,
-            "hidden_size" : 6,
-            "lag_size" : 8,
+            "input_size" : 7,
+            "output_size" : 7,
+            "hidden_size" : 20,
+            "lag_size" : 4,
             "batch_size" : 256,
             "learning_rate" : 0.001,
             "column" : 1
@@ -25,9 +25,9 @@
         "seq2seq" : {
             "input_size" : 8,
             "hidden_size" : 7,
-            "lag_size" : 7,
+            "lag_size" : 48,
             "batch_size" : 256,
-            "learning_rate" : 0.0001,
+            "learning_rate" : 0.001,
             "column" : 1
         }
      }
