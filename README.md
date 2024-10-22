@@ -1,4 +1,4 @@
-# ResiDualNet : A novel electric vehicle charging data imputation
+# ResiDualNet: A novel electric vehicle charging data imputation technique to enhance load forecasting accuracy (Under Review)
 Electric vehicles (EVs) are an eco-friendly mode of transportation, significantly reducing
 greenhouse gas emissions. The development of EV charging stations is crucial not only for
 supporting the increasing number of EVs but also for integrating them into a smart grid
